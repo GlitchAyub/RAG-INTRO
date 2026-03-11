@@ -1,0 +1,25 @@
+LinkedIn Profile: Ayubraj Thapa
+================================
+URL: https://www.linkedin.com/in/ayubraj-thapa/
+
+Name        : Ayubraj Thapa
+Role        : Backend Developer
+Experience  : 2+ Years
+Company     : Phenx Machine Learning Technologies Inc., Kolkata, India
+Education   : MCA — Siliguri Institute of Technology
+
+Skills      : Python, Django, AWS, Docker, DevOps (Jenkins, GitHub Actions),
+              Node.js, React, Flutter, PostgreSQL, Redis, WebRTC, Socket.io
+
+Notable Projects:
+  - Krishi.AI       : AI-powered agricultural assistant; cleared Round 1 of NABARD Hackathon 2025
+  - URL Shortener   : Production-grade service using Django REST Framework, PostgreSQL,
+                      Redis, Celery, Base62 encoding, JWT auth, and analytics
+  - Healthcare App  : Patients + Doctors platform built with Node.js, React, and Flutter
+                      on Replit with WebRTC + Socket.io video call architecture
+
+Previous Experience:
+  - Intern at Simpsoft Solutions
+
+Current Focus:
+  - Agentic AI / AI Engineering transition (LangChain, CrewAI, LangGraph, RAG pipelines)
